@@ -39,3 +39,9 @@ h1, h2, h3, h4, h5, h6 {
     right: 300px;
     top: 40px;
   }
+
+  .bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+  }
