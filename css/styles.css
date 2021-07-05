@@ -25,3 +25,11 @@ h1, h2, h3, h4, h5, h6 {
     color: #fff;
     font-family: 'Major Mono Display', monospace;
   }
+
+/* Welcome Section */
+
+  .welcome {
+    background-color: #e3fdfd;
+    position: relative;
+    padding-top: 100px;
+  }
