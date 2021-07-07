@@ -46,6 +46,34 @@ body {
     top: 40px;
   }
 
+  .background-cloud {
+    position: absolute;
+    right: 80px;
+    bottom: 100px;
+    height: 70%;
+  }
+
+  .side-cloud {
+    position: absolute;
+    right: -350px;
+    bottom: 100px;
+    height: 50%;
+  }
+
+.side-cloud2 {
+  position: absolute;
+  right: 10px;
+  bottom: 100px;
+  height: 40%;
+}
+
+.stars {
+  position: absolute;
+  right: -20px;
+  top: 20px;
+  height: 20%;
+}
+
 /* Welcome Section */
 
   .welcome {
