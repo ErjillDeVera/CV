@@ -30,6 +30,22 @@ body {
     font-family: 'Major Mono Display', monospace;
   }
 
+  /* Nice to Meet You Section */
+  .profile-pic {
+    width: 100%;
+  }
+
+  .title-heading {
+    color: #ffcfdf;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Bungee Inline', cursive;
+    line-height: 2;
+    position: absolute;
+    right: 100px;
+    top: 40px;
+  }
+
 /* Welcome Section */
 
   .welcome {
@@ -53,13 +69,6 @@ body {
     height: 30%;
   }
 
-  .title-heading {
-    color: #ffcfdf;
-    font-size: 5.625rem;
-    margin: 50px auto 0 auto;
-    font-family: 'Bungee Inline', cursive;
-    line-height: 2;
-  }
 
   .title-subheading {
     color: #66BFBF;
