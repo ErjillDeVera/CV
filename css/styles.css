@@ -49,35 +49,35 @@ body {
   .background-cloud {
     position: absolute;
     right: 250px;
-    bottom: 5px;
+    bottom: 0px;
     height: 70%;
   }
 
   .side-cloud {
     position: absolute;
     right: -350px;
-    bottom: 100px;
+    bottom: 90px;
     height: 50%;
   }
 
 .side-cloud2 {
   position: absolute;
   right: 10px;
-  bottom: 100px;
+  bottom: 90px;
   height: 40%;
 }
 
 .side-cloud3 {
   position: absolute;
   right: 430px;
-  bottom: 10px;
+  bottom: 0px;
   height: 40%;
 }
 
 .side-cloud4 {
   position: absolute;
   right: 500px;
-  bottom: 100px;
+  bottom: 90px;
   height: 30%;
 }
 
