@@ -6,6 +6,12 @@ h1, h2, h3, h4, h5, h6 {
 body {
   text-align: center;
 }
+
+/* Containers */
+.container-fluid{
+  padding: 7% 15%
+}
+
   /* Navigation Bar */
 
   .navbar {
@@ -95,6 +101,7 @@ body {
     position: relative;
     padding-top: 205px;
     text-align: center;
+    height: 1000px;
   }
 
 .greetingsTitle {
@@ -125,3 +132,16 @@ body {
     font-family: 'Major Mono Display', monospace;
     font-weight: normal;
   }
+
+
+/* Education Section */
+#education {
+  height: 1000px;
+  background-color: #ffcfdf;
+  position: relative;
+  padding: 7% 15%;
+}
+
+#education .greetingsTitle {
+    color: #66BFBF;
+}
