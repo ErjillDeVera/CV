@@ -136,7 +136,6 @@ body {
 
 /* Education Section */
 #education {
-  height: 1000px;
   background-color: #ffcfdf;
   position: relative;
   padding: 7% 15%;
@@ -152,8 +151,31 @@ body {
     color: #66BFBF;
 }
 
+
 .educationLocation {
   font-size: 80px;
   font-family: 'Bungee Inline', cursive;
   color: #ffac81;
+  text-decoration: underline;
+}
+
+.educationInfo {
+  height: 1000px;
+}
+
+.educationTitle {
+  font-family: 'Bungee Inline', cursive;
+  font-size: 4rem;
+  text-align: center;
+  color: #B19CD9;
+  justify-content: center;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+}
+.carousel-item {
 }
