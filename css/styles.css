@@ -48,43 +48,43 @@ body {
 
   .background-cloud {
     position: absolute;
-    right: 250px;
-    bottom: 0px;
+    right: 30%;
+    top: 50%;
     height: 70%;
   }
 
   .side-cloud {
     position: absolute;
-    right: -350px;
-    bottom: 90px;
-    height: 50%;
+    right: 20%;
+    top: 65%;
+    height: 40%;
   }
 
 .side-cloud2 {
   position: absolute;
-  right: 10px;
-  bottom: 90px;
-  height: 40%;
+  right: 0%;
+  top: 61%;
+  height: 70%;
 }
 
 .side-cloud3 {
   position: absolute;
-  right: 430px;
-  bottom: 0px;
-  height: 40%;
+  right: 35%;
+  top: 80%;
+  height: 28%;
 }
 
 .side-cloud4 {
   position: absolute;
-  right: 500px;
-  bottom: 90px;
-  height: 30%;
+  right: 0%;
+  top: 61%;
+  height: 40%;
 }
 
 .stars {
   position: absolute;
-  right: -20px;
-  top: 20px;
+  right: 10%;
+  top: 31%;
   height: 20%;
 }
 
